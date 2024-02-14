@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mepedia/static/css/main.e6c13ad2.css",
+    "main.js": "/mepedia/static/js/main.5e11015f.js",
+    "static/js/592.8a15ef65.chunk.js": "/mepedia/static/js/592.8a15ef65.chunk.js",
+    "index.html": "/mepedia/index.html",
+    "main.e6c13ad2.css.map": "/mepedia/static/css/main.e6c13ad2.css.map",
+    "main.5e11015f.js.map": "/mepedia/static/js/main.5e11015f.js.map",
+    "592.8a15ef65.chunk.js.map": "/mepedia/static/js/592.8a15ef65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5e11015f.js"
+  ]
+}
